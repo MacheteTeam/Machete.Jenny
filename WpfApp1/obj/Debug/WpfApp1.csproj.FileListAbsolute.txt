@@ -1,0 +1,44 @@
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\Machete.Jenny.dll
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\NPOI.dll
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\NPOI.OOXML.dll
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\Machete.Jenny.pdb
+D:\Project\Test Case\Machete.Jenny\WpfApp1\bin\Debug\NPOI.xml
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\App.g.cs
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\MainWindow.baml
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Project\Test Case\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.pdb
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\WpfApp1.exe.config
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\WpfApp1.exe
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\WpfApp1.pdb
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\Machete.Jenny.dll
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\NPOI.dll
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\NPOI.OOXML.dll
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\Machete.Jenny.pdb
+D:\Project\Machete.Jenny\WpfApp1\bin\Debug\NPOI.xml
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\App.g.cs
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\MainWindow.baml
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.g.resources
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.exe
+D:\Project\Machete.Jenny\WpfApp1\obj\Debug\WpfApp1.pdb

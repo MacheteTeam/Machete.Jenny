@@ -1,0 +1,11 @@
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\Machete.Jenny.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\Machete.Jenny.pdb
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\NPOI.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\NPOI.OOXML.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\NPOI.OpenXml4Net.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\NPOI.OpenXmlFormats.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\bin\Debug\NPOI.xml
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\obj\Debug\Machete.Jenny.csprojResolveAssemblyReference.cache
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\obj\Debug\Machete.Jenny.dll
+D:\Project\Test Case\Machete.Jenny\Machete.Jenny\obj\Debug\Machete.Jenny.pdb
